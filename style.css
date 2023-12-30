@@ -1,5 +1,5 @@
 body {background-color: black;
-margin: 0px;
+margin: 0px; display: flex;
 }
 header img {width: 1200px;
 }
